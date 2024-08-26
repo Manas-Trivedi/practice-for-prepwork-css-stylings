@@ -1,37 +1,38 @@
+* {
+    font-family: 'Courier Prime', monospace;
+    background-color: #FFEAEC;
+    color: #220C10;
+}
+
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    text-align: center;
+    color: #B80C09;
+}
+
+h1 + hr {
+    width: 95%;
+    size: 12;
+    border-top: 4px solid black;
+    border-radius: 25%;
+}
+
+.story-box {
+    width: 60%;
+    text-align: justify;
+}
+
+.other-blogs {
+    margin-left: 30px;
+    width: 35%;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: text-top;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    text-align: center;
+    color: #0B4F6C;
 }
 
-p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
-}
-
-.logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
-}
